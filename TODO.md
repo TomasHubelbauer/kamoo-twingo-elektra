@@ -1,6 +1,6 @@
 # TODO
 
-## Provide a sourced historical timeline in the company section of the README
+## Provide a sourced historical timeline in `company.md`
 
 Right now it's just a set of collected company names and dates with no support
 links.
