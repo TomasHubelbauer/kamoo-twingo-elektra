@@ -1,9 +1,8 @@
 # TODO
 
-## Provide a sourced historical timeline in `README.md`
+## Provide a sourced historical timeline in the company section of the README
 
-Right now it's just a set of collected fragments.
+Right now it's just a set of collected company names and dates with no support
+links.
 
-## Add detailed MarkDown files for company, battery and car README sections
-
-Let's keep introductory paragraphs but reserve detail for standalone files.
+## Find out the battery's volumetric and gravimetric density and compare to LFP

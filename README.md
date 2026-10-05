@@ -1,29 +1,58 @@
 # Kamoo Twingo Elektra
 
 Kamoo Twingo Elektra is a conversion of the classic Renault Twingo to an EV that
-was offered by a Swiss company named Kamoo Electrocars.
+was offered by a Swiss company named Kamoo AG under the name Kamoo Electrocars
+from at least 2009 on.
 
 ## The company
 
-The company was originally named MES-DEA and was based in Stabio.
+Kamoo AG was originally Comdat New Technology AG, an IT services company founded
+in 1996.
+In 2009, the company renamed itself to Kamoo AG and pivoted to EV conversions
+and it operates to this day.
 
-MES-DEA built Sodium-Nickel-Chloride batteries ("molten salt" batteries) as well
-as did EV conversions of several models, including the Fiat 500 and the Renault
-Twingo.
+Renault Twingo electric conversions were offered by Kamoo from 2009 (end date
+unknown) and were assembled in Schlieren.
 
-At some point, MES-DEA restructured and split, and the EV conversion division
-became Kamoo.
-Its conversions were sold under the name Kamoo Electrocars.
+Kamoo has sold other EV conversions, for example the Fiat 500.
 
-The battery division became FZ Sonick.
+Kamoo's services comprised the conversion itself.
+The traction components and the battery system for it were provided by a company
+named MES-DEA SA.
+
+MES-DEA SA was split off from MES SA which was founded in 1976 in Ticino.
+MES developed automotive components such as temperature sensors.
+Initially a MES division, it became an independent company, MES-DEA SA in 1999.
+The company was focused on specifically electric and hybrid vehicle components.
+It was renamed to CEBI SWISS SA in 2011.
+
+MES-DEA was a supplier of both the traction components (AC electric motor, TIM
+inverter) and the battery system (molten salt battery named ZEBRA).
+
+The molten salt battery technology pre-dates MES-DEA.
+Its development began at CSIR in Pretoria, South Africa and continued with
+British partners, then AEG Anglo Batteries, a joint venture
+involving AEG, later Daimler, and Anglo American.
+
+ZEBRA stands for Zero Emission Battery Research Activity.
+The original code name was Zeolite Battery Research in Africa reflecting the
+technology's South African origins.
+
+MES-DEA acquired the ZEBRA technology in 1999.
+Its battery business transferred to FZSONICK SA in 2010.
+FZSoNick adopted HORIEN branding in 2024 and continues to produce molten salt
+batteries.
 
 ## The battery
 
-The Kamoo Twingo Elektra uses a Sodium-Nickel-Chloride called Zebra.
-It operated at a high temperature (somewhere between 200 and 300 °C).
+The Kamoo Twingo Elektra uses a sodium-nickel-chloride ("molten salt") battery.
+The battery operated at a high internal temperature of approximately 270-300 °C.
+It came in an insulated enclosure meant to slow down heat loss and was kept at
+the right temperature using heaters.
+A cold battery had to be heated before it could be charged.
 
 ## The car
 
-The conversion is based specifically off the Renault Twingo's first generation.
-These were hugely popular in Europe in their hayday and remain beloved to this
+The conversion is based on the Renault Twingo's first generation.
+These were hugely popular in Europe in their heyday and remain beloved to this
 day.
